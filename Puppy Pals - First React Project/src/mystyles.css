@@ -1,0 +1,17 @@
+h1{
+    color: orange;
+    width: auto;
+}
+
+p{
+    color: green;
+}
+
+.puppy{
+    color:blue;
+}
+
+h2{
+    color:rgb(2, 43, 2);
+    text-decoration-line: underline;
+}
